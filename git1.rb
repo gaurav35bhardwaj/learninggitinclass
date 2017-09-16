@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 GAURAV
 BHARDWAJ
-master line
-master line
+
+=======
+Gaurav
+
+Branch a line 1
+>>>>>>> branch_a
